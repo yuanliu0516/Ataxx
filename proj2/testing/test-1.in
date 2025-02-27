@@ -1,0 +1,13 @@
+seed 123432
+auto blue
+block a3
+block a1
+block b3
+block b4
+block c1
+block c2
+block d1
+
+auto red
+*move/win+
+quit
